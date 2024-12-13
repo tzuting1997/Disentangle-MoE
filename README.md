@@ -1,6 +1,6 @@
-# Specialized Code-Switching ASR Project
+# D-MoE Code-Switching ASR Project
 
-Forked from [ESPNET](https://github.com/espnet/espnet), this project focuses on developing a specialized Automatic Speech Recognition (ASR) model tailored for **code-switching speech recognition**. The primary focus is improving the **audio encoder** to better handle the complexities of code-switching scenarios.
+Forked from [ESPNET](https://github.com/espnet/espnet), this project focuses on developing a Automatic Speech Recognition (ASR) model  for **code-switching speech recognition**. The primary focus is improving the **audio encoder** to better handle the complexities of code-switching scenarios.
 
 For more details on the methodologies and approaches, please refer to our papers:
 
