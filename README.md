@@ -1,19 +1,24 @@
-# Code-Switching ASR Model Training
+# Specialized Code-Switching ASR Project
 
-This repository is forked from [ESPNET](https://github.com/espnet/espnet). The primary goal of this project is to train specialized Automatic Speech Recognition (ASR) models for **code-switching speech recognition**, with a focus on improving the **acoustic encoder**.
+Forked from [ESPNET](https://github.com/espnet/espnet), this project focuses on developing a specialized Automatic Speech Recognition (ASR) model tailored for **code-switching speech recognition**. The primary focus is improving the **audio encoder** to better handle the complexities of code-switching scenarios.
 
-## Publications
-This project is aligned with the following research papers:
+For more details on the methodologies and approaches, please refer to our papers:
 
 - **ICASSP 2024**: [An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement](https://arxiv.org/abs/2402.17189)
 - **SLT 2024**: [Enhancing Code-Switching ASR Leveraging Non-Peaky CTC Loss and Deep Language Posterior Injection](https://arxiv.org/abs/2412.08651)
 
-Reproduced models for some of the above research are available in my repository.
-
-## Installation Guide
-Please follow the [ESPNET installation guide](https://espnet.github.io/espnet/installation.html) to set up the environment. Ensure you are using **Python 3.8**.
+Some models reproducing results from these papers can be found in this repository.
 
 ---
-Feel free to explore and contribute to the repository!
 
+## Installation Guide
+
+Follow the installation instructions provided by [ESPNET's official documentation](https://espnet.github.io/espnet/installation.html).
+
+### Requirements:
+- **Python**: Version 3.8
+
+---
+
+For any issues or inquiries, feel free to open an issue or contribute to the repository!
 
